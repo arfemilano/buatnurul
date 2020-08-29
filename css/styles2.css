@@ -2722,13 +2722,13 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #1b2f36;
+  border-color: #1b2f36;
 }
 .btn-dark:hover {
   color: #fff;
-  background-color: #23272b;
-  border-color: #1d2124;
+  background-color: #0f0f0f;
+  border-color: #0f0f0f;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
@@ -6320,7 +6320,7 @@ button.bg-dark:focus {
 .bg-galleyup6 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 100%), url("../assets/redcover.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 100%), url("../assets/bluecover.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -9894,11 +9894,27 @@ button.bg-dark1:focus {
 }
 .text-center-yellow {
   text-align: center ;
-  color: rgba(255, 251, 0, 0.781) ;
+  color: rgb(255, 255, 255) ;
+}
+.text-center-cyan {
+  text-align: center ;
+  color: rgb(188, 255, 244)
+}
+.text-center-whitebright {
+  text-align: center ;
+  color: rgb(255, 255, 255) ;
 }
 .text-center-white {
   text-align: center ;
-  color: rgba(255, 255, 255, 0.781) ;
+  color: rgba(255, 255, 255, 0.904) ;
+}
+.text-center-white-lilyellow {
+  text-align: center ;
+  color: rgba(255, 245, 198, 0.904) ;
+}
+.text-center-white-dark {
+  text-align: center ;
+  color: rgba(255, 255, 255, 0.493) ;
 }
 .text-center-blue {
   text-align:center !important;
@@ -10006,11 +10022,15 @@ button.bg-dark1:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #000000 !important;
+  font-style: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: large;
+  font-weight: bolder;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d6370c !important;
+  color: #ffffff !important;
 }
 
 .text-secondary {
@@ -10283,7 +10303,7 @@ hr.light {
   color: #8CB5C5;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: rgb(255, 217, 0) !important;
+  color: rgba(255, 255, 255, 0.404) !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10294,7 +10314,7 @@ hr.light {
     color: rgba(252, 252, 252, 0.7), 0.7);
   }
   #mainNav .navbar-brand:hover {
-    color: rgb(230, 210, 36);
+    color: rgb(255, 217, 0);
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     color: rgb(34, 34, 34);
@@ -10314,10 +10334,10 @@ hr.light {
     color: #000000;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: rgb(230, 210, 36);
+    color: rgb(230, 211, 36);
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: #212529;
+    color: #000000;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
     color: #ffffff;
