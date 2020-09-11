@@ -6265,7 +6265,7 @@ button.bg-dark:focus {
 .bg-galleyupshootingstar {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 20%), url("../assets/shootingstar.gif");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 1%, rgba(0, 0, 0, 0.75) 20%), url("../assets/shootingstar.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -6274,7 +6274,7 @@ button.bg-dark:focus {
 .bg-galleyuplaut {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 20%), url("../assets/lautt.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 1%, rgba(0, 0, 0, 0.75) 20%), url("../assets/lautt.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -6292,7 +6292,7 @@ button.bg-dark:focus {
 .bg-galleyuplangit {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.5) 5%,rgba(0,0,0,0.3)99%), url("../assets/tes1.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 1%, rgba(0, 0, 0, 0.6) 15%,rgba(0,0,0,0.7)99%), url("../assets/Artboard\ –\ 19.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -6301,7 +6301,7 @@ button.bg-dark:focus {
 .bg-galleyuphutan {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 12, 0, 0.7) 0%,rgba(0,0,0,0)60%, rgba(0, 0, 0, 0.7) 95%,rgba(0,0,0,1)100%), url("../assets/tes2.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 80%,rgba(0,0,0,1)100%), url("../assets/tes2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -6400,7 +6400,7 @@ button.bg-dark:focus {
 .bg-galleyup6 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 100%), url("../assets/bluecover.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 100%), url("../assets/bluecover.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
